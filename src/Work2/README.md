@@ -34,7 +34,7 @@
 
 # 效果展示
 
-![triangle screenshot](figures\2.png)
+![triangle screenshot](./figures/2.png)
 
 ---
 

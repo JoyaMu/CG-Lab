@@ -10,7 +10,7 @@
 
 ## 基于 Taichi 的二维粒子引力模拟系统
 
-> Computer Graphics Lab Work0  
+> Computer Graphics Lab Work1
 > Particle Gravity Simulation using Taichi
 
 ---
